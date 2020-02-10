@@ -26,3 +26,7 @@ El proyecto tiene como objetivo crear un modelo para clasificar cada incidente s
 ## Diseño del producto de datos (mockup)
 
 El producto de datos a entregar sería un tablero que le de al usuario la posible clasificación (e incluso una segunda opción) del incidente, con base en la información disponible. De esta manera el usuario podrá valorar la prioridad de cada incidente.
+
+La imagen debajo ilustra una primera aproximación de cómo se vería este tablero. Los números de la derecha ayudarían a el tomador de decisiones a ponderar qué tan certera es la clasificación del modelo.
+
+![alt text](https://github.com/brunocgf/Productos_de_Datos_2020/blob/master/imagenes/mockup1.png)
